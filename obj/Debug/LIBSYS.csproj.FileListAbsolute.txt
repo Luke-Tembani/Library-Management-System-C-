@@ -1,0 +1,17 @@
+C:\Users\Luke\source\repos\LIBSYS\bin\Debug\LIBSYS.exe.config
+C:\Users\Luke\source\repos\LIBSYS\bin\Debug\LIBSYS.exe
+C:\Users\Luke\source\repos\LIBSYS\bin\Debug\LIBSYS.pdb
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Form1.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Properties.Resources.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.csproj.GenerateResource.cache
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.exe
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.pdb
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Main.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Forms.AddBooks.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Forms.AddStudents.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Forms.BackupDB.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Forms.LendBook.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Forms.ReturnBook.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Forms.Settings.resources
+C:\Users\Luke\source\repos\LIBSYS\obj\Debug\LIBSYS.Forms.Reports.resources
